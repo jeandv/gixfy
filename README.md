@@ -15,7 +15,7 @@
 
 ## Tecnologias usadas 🛠️
 
-· API usada: giphy.com
+· API usada: giphy.com <br>
 · HTML5 <br>
 · CSS3 <br>
 · SCSS <br>
