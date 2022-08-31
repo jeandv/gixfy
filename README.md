@@ -1,6 +1,6 @@
 ## Descripción 💬
 
-✔ Bienvenido a Gixfy! Encuentra tus gifs favoritos para poder compartirlos, descargarlos y usarlos donde tu quieras! Puedes registrar y/o iniciar sesión, guarda como favoritos cualquier gif!
+✔ Bienvenido repositorio de Gixfy! Encuentra tus gifs favoritos para poder compartirlos, descargarlos y usarlos donde tu quieras! Puedes registrar y/o iniciar sesión, guarda como favoritos cualquier gif!
 
 ## Autor 🤠
 
