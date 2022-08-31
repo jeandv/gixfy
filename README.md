@@ -35,15 +35,7 @@ Si quieres contratarme puedes escribirme a jeanrdev@gmail.com o a mi [LinkedIn](
 
 # Vista previa 🔎
 
-
-![Presentación para sitio web y móvil elegante y moderna tonos tierra pastel](https://user-images.githubusercontent.com/90219458/173938431-bbc3d1c9-78bf-4d73-ab5d-d3942f085c41.png)
-
-
-![foto-portfolio](https://user-images.githubusercontent.com/90219458/173177752-bc830f38-cbbc-48ec-ad98-41fa37201fc6.png)
-
-
-![tel](https://user-images.githubusercontent.com/90219458/173942996-8a8a47f2-adef-4e6f-b15e-f8fe70c68b3f.png)
-
+* falta captura de la web *
 
 <small>Creado por Jean Rondón</small>
 
