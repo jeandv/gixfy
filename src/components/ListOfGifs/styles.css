@@ -1,0 +1,17 @@
+.ListOfGifs {
+    display: grid;
+    min-height: 100vh;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-rows: masonry;
+    gap: 0 16px;
+    align-self: center;
+}
+
+.ListOfGifs_item {
+    /* max-height: 300px; */
+}
+
+.ListOfGifs_image {
+    width: 100%;
+    cursor: pointer;
+}

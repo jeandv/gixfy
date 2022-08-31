@@ -1,0 +1,45 @@
+.Spinner {
+    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Spinner div {
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 0 20px;
+    margin: 0 10px;
+    animation: bouncer 0.75s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite alternate;
+}
+
+.Spinner div:nth-child(5n + 1) {
+    background-color: var(--brand-color_1);
+}
+
+.Spinner div:nth-child(5n + 2) {
+    animation-delay: calc(0.1s);
+    background-color: var(--brand-color_2);
+}
+
+.Spinner div:nth-child(5n + 3) {
+    animation-delay: calc(0.2s);
+    background-color: var(--brand-color_3);
+}
+
+.Spinner div:nth-child(5n + 4) {
+    animation-delay: calc(0.3s);
+    background-color: var(--brand-color_4);
+}
+
+.Spinner div:nth-child(5n + 5) {
+    animation-delay: calc(0.4s);
+    background-color: var(--brand-color_5);
+}
+
+@keyframes bouncer {
+    100% {
+        transform: scale(1.75) translateY(-20px);
+    }
+}
