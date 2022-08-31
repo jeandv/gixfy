@@ -1,3 +1,56 @@
+## Descripción 💬
+
+✔ Bienvenido a Gixfy! Encuentra tus gifs favoritos para poder compartirlos, descargarlos y usarlos donde tu quieras! Puedes registrar y/o iniciar sesión, guarda como favoritos cualquier gif!
+
+## Autor 🤠
+
+· [LinkedIn](https://www.linkedin.com/in/jeandv/) <br>
+· [Twitter](https://www.twitter.com/r4yb4/) <br>
+· [Instagram](https://www.instagram.com/._jeanr/) <br>
+· [GitHub](https://github.com/jeandv/) 
+
+## URL para ver el resultado 👁‍🗨
+
+✔ Para ver el resultado final puedes verlo aquí! https://jeandv.vercel.app
+
+## Tecnologias usadas 🛠️
+
+· HTML5 <br>
+· CSS3 <br>
+· SCSS <br>
+· SASS <br>
+· JavaScript <br>
+· React JS <br>
+· Componentes <br>
+· Hooks (useState, useEffect, etc...) <br>
+· React Helmet <br>
+
+## Instalación 💻
+
+✔ Sigue los pasos mas abajo.
+
+## Contratación 📧
+
+Si quieres contratarme puedes escribirme a jeanrdev@gmail.com o a mi [LinkedIn](https://www.linkedin.com/in/jeandv/) para consultas o tambien puedes hablarme por Whatsapp +58 4245494242
+
+# Vista previa 🔎
+
+
+![Presentación para sitio web y móvil elegante y moderna tonos tierra pastel](https://user-images.githubusercontent.com/90219458/173938431-bbc3d1c9-78bf-4d73-ab5d-d3942f085c41.png)
+
+
+![foto-portfolio](https://user-images.githubusercontent.com/90219458/173177752-bc830f38-cbbc-48ec-ad98-41fa37201fc6.png)
+
+
+![tel](https://user-images.githubusercontent.com/90219458/173942996-8a8a47f2-adef-4e6f-b15e-f8fe70c68b3f.png)
+
+
+<small>Creado por Jean Rondón</small>
+
+
+/////////////////
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
