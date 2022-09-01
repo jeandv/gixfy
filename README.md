@@ -25,6 +25,7 @@
 · Componentes <br>
 · Hooks (useState, useEffect, etc...) <br>
 · React Helmet <br>
+· Tests de hooks <br>
 
 ## Instalación 💻
 
