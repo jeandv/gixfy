@@ -11,7 +11,7 @@
 
 ## URL para ver el resultado 👁‍🗨
 
-✔ Para ver el resultado final puedes verlo aquí! https://jeandv.vercel.app
+✔ Para ver el resultado final puedes verlo aquí! https://gixfy.vercel.app
 
 ## Tecnologias usadas 🛠️
 
